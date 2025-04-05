@@ -27,7 +27,7 @@ Hi! I'm Deepak N D, an experienced IT Infrastructure and System Administrator wi
 
 ---
 
-## 📌 Sample Work (To Be Uploaded Soon)
+## 📌 Sample Work 
 
 - ✅ BitLocker Automation Script – `scripts/bitlocker-enable.ps1`
 - ✅ Azure AD User Creation Manual – `guides/azure-user-setup.md`
